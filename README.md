@@ -7,7 +7,7 @@ SnakeSlither é uma versão simples do clássico jogo da cobrinha (Snake) desenv
 
 ## Como Jogar
 
-- Use as setas direcionais (ou WASD) para controlar a direção da cobra.
+- Use as setas direcionais para controlar a direção da cobra.
 - Tente comer as frutas que aparecem no jogo para ganhar pontos.
 - A cobra cresce a cada fruta que você come.
 - Evite colidir com as bordas da tela ou com seu próprio corpo, ou o jogo acabará.
@@ -54,7 +54,7 @@ fique à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
-Este projeto está sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
+Este projeto está sob a GPL-3.0 license - consulte o arquivo LICENSE para obter detalhes.
 
 ## Autor
 
