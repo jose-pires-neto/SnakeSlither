@@ -1,3 +1,6 @@
+![image](https://github.com/jose-pires-neto/SnakeSlither/assets/103378551/704bc9c9-fb6a-4685-8a0c-3e15501d6830)
+
+
 # SnakeSlither
 
 SnakeSlither é uma versão simples do clássico jogo da cobrinha (Snake) desenvolvido em Java. Teste suas habilidades, controle a cobra, coma as frutas e veja até onde você consegue chegar!
